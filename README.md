@@ -10,7 +10,7 @@ git clone git@github.com:vanatteveldt/teletekst_scraper
 cd teletekst_scraper
 python3 -m venv env
 source env/bin/activate
-python -r requirements.txt
+pip install -r requirements.txt
 ```
 
 # Usage
